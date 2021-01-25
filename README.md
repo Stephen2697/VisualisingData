@@ -1,4 +1,7 @@
 # Documentation: Data Visualisation
+
+![alt text](https://github.com/Stephen2697/VisualisingData/blob/main/DataVisualisation.png "Data Visualisation")
+
 ---
     Creator: Stephen Alger C16377163 DT228/4
     Process Documentation: Data Visualisation.
