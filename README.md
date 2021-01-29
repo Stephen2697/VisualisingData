@@ -14,9 +14,44 @@
 ---
 
     Week One: Introduction
-##### Lecture Notes: 
-- Add Bullet Points Here.
-- Add Bullet Points Here.
+<p>Lecture Notes: <a href="https://www.storytellingwithdata.com/blog/2014/02/the-3-minute-story">Available Here</a>.</p>
+
+- **Primary Module Aim:** 
+  *The central aim of this module is help students attain the ability to take complex data, process it and extract value from it through visualisation.*
+
+- **Why Do We Even Need Data Visualisation?** 
+Because we are not machines; The unimaginably vast arrary of arbitrary data sets that exist are completely beyond our comprehension - Every single computer interaction leaves a data trail, from the exact moment and amount of a Visa Card payment to the constant, precise recording of each Dublin Bus GPS position. It all leaves a data trail. Eventually someone needs to package this data mess into bus timetables, actionable insights or quarterly spending reports. The adage *"If you can't measure it, you can't manage it"* holds true here more than anywhere.
+
+- **Functions of Visualisations?** 
+  - **Record**: store information.
+  - **Analyze**: support reasoning about information.
+    - Process and calculate
+    - Reason about data
+    - Feedback and interaction
+  - **Communicate**: convey information to others.
+    - Share and persuade
+    - Collaborate and revise
+    - Emphasize important aspects of data
+
+- **Why Do We Need Visualisation?**
+  *The challenge is to create effective and engaging visualizations that are appropriate to the data.*
+  - Well-designed visual representations can replace cognitive calculations with simple perceptual inferences and improve comprehension, memory, and decision making.
+
+  - By making data more accessible and appealing, visual representations may also help engage more diverse audiences in exploration and analysis
+
+  - The challenge is to create effective and engaging visualizations that are appropriate to the data.
+
+- **Building Effective Visualisation**
+  Incorporate the Following:
+    - **Perceptual Psychology**
+    - **Cognitive Science**
+    - **Graphic Design**
+    - **Visual art**
+- Software Tools available?
+-Jupyter 🪐
+-Tableau Public 📊
+-R Programming & Visualisations 🧑‍💻
+- End of Lecture;
 ---
 ##### Lab Notes:
 * The Big Idea, Elevator Pitch & The Three Minute Story.
@@ -30,13 +65,13 @@
 - So What is the point of this exercise? Illustrating the value of making your concept universally understandable. Much like will will try to make our **Data** accessible through **Visualisation** going forward.
 
 ##### Lab Assignment: Procure your own 'Big Idea'.
-![alt text](https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20MindMap.png "My Big Idea")
-
+![MindMap](https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20MindMap.png "My Big Idea")
 
 <p>My Lab Work/ Group Work Submission: <a href="https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20Group%2013%20Document.pdf">The Big Idea PDF</a>.</p>
 
 <p>Futher Reading: : <a href="https://www.storytellingwithdata.com/blog/2014/02/the-3-minute-story">The 3 Minute Story - StoryTellingWithData.com</a>.</p>
 
+##### End of Lab;
 ---
 
     Week Two:
