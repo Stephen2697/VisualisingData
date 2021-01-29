@@ -1,4 +1,4 @@
-# Documentation: Data Visualisation 📈📊🤖🤕💭💬
+# Documentation: Data Visualisation 📈🤕
 
 ![alt text](https://github.com/Stephen2697/VisualisingData/blob/main/DataVisualisation.png "Data Visualisation")
 
@@ -63,12 +63,12 @@ We are not machines; The unimaginably vast arrary of arbitrary data sets that ex
   3. And; It must be a **complete sentence**, nothing more nor less.
 - So What is the point of this exercise? Illustrating the value of making your concept universally understandable. Much like will will try to make our **Data** accessible through **Visualisation** going forward.
 
-##### 📄 Lab Assignment: Procure your own 'Big Idea'.
+##### 📄 Lab Assignment: Procure your own 'Big Idea' 💭
 ![MindMap](https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20MindMap.png "My Big Idea")
 
-<p>My Lab Work/ Group Work Submission: <a href="https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20Group%2013%20Document.pdf">The Big Idea PDF</a>.</p>
+<p>🔖 My Lab Work/ Group Work Submission: <a href="https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20Group%2013%20Document.pdf">The Big Idea PDF</a>.</p>
 
-<p>Futher Reading: : <a href="https://www.storytellingwithdata.com/blog/2014/02/the-3-minute-story">The 3 Minute Story - StoryTellingWithData.com</a>.</p>
+<p>📚 Futher Reading: : <a href="https://www.storytellingwithdata.com/blog/2014/02/the-3-minute-story">The 3 Minute Story - StoryTellingWithData.com</a>.</p>
 
 ##### End of Lab;
 ---
