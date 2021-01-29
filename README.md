@@ -20,9 +20,10 @@
 ---
 ##### Lab Notes:
 * The Big Idea, Elevator Pitch & The Three Minute Story.
-* It's Far Easier to Tell a rambling spiel, the art is in the well crafted, clear & concise call to action:
-  ##### The Big Idea? What is it?
----
+* It's Far Easier to Tell a rambling spiel, the art is in the well crafted, clear & concise call to action
+* *“I would have written a shorter letter, but I did not have the time”* - Blaise Pascal
+ ##### The Big Idea? What is it?
+
   1. Articulate your **Point of View**.
   2. Convey **What is at Stake** to the Audience should they accept or decline.
   3. And; It must be a **complete sentence**, nothing more nor less.
@@ -32,7 +33,9 @@
 ![alt text](https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20MindMap.png "My Big Idea")
 
 
-<p>My Lab Work/ Group Work Submission<a href="https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20Group%2013%20Document.pdf">The Big Idea PDF</a>.</p>
+<p>My Lab Work/ Group Work Submission: <a href="https://github.com/Stephen2697/VisualisingData/blob/main/WeekOne/Lab%20Work%20Complete/The%20Big%20Idea%20Group%2013%20Document.pdf">The Big Idea PDF</a>.</p>
+
+<p>Futher Reading: : <a href="https://www.storytellingwithdata.com/blog/2014/02/the-3-minute-story">The 3 Minute Story - StoryTellingWithData.com</a>.</p>
 
 ---
 
