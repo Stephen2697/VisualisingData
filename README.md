@@ -48,9 +48,9 @@ Because we are not machines; The unimaginably vast arrary of arbitrary data sets
     - **Graphic Design**
     - **Visual art**
 - Software Tools available?
--Jupyter 🪐
--Tableau Public 📊
--R Programming & Visualisations 🧑‍💻
+  - Jupyter 🪐
+  - Tableau Public 📊
+  - R Programming & Visualisations 🧑‍💻
 - End of Lecture;
 ---
 ##### Lab Notes:
