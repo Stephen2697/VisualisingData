@@ -1,6 +1,5 @@
 # Documentation: Data Visualisation 📈🤕
 
-![My Tableau Visualisation](https://github.com/Stephen2697/VisualisingData/blob/main/DataVisualisation.png "Data Visualisation")
 ![My Health Data Deep Dive](https://github.com/Stephen2697/VisualisingData/blob/main/Dashboard.png)
           
 
